@@ -2,9 +2,8 @@
 <img src="https://github.com/nazmulrahat786/nazmulrahat786/blob/main/NazmulHaqueRahat-1.png" alt="Banner" />
 
 
-# 👋 Hi, I'm **Nazmul Haque Rahat**
-
-### 🚀 Passionate Web Developer | MERN Stack Enthusiast | Lifelong Learner
+<h1 align="center">👋 Hello, I'm Nazmul Haque Rahat!</h1>
+<h3 align="center">💻 Frontend Developer | 🌱 Full Stack Enthusiast</h3>
 
 
 ---
