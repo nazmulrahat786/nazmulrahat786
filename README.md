@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://github.com/nazmulrahat786/nazmulrahat786/blob/main/nazmulrahat.png" alt="Banner" />
+<img src="https://github.com/nazmulrahat786/nazmulrahat786/blob/main/NazmulHaqueRahat-1.png" alt="Banner" />
 
 <h1 align="center">👋 Hello, I'm Nazmul Haque Rahat!</h1>
 <h3 align="center">💻 Frontend Developer | 🌱 Full Stack Enthusiast</h3>
