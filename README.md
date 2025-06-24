@@ -8,16 +8,16 @@
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate web developer who loves building clean, responsive, and user-friendly applications.  
-I enjoy learning new technologies and continuously improving my development skills.
+I'm **Nazmul Haque Rahat**, a dedicated and creative web developer with a strong passion for building fast, user-friendly, and scalable web applications. I love working with the MERN stack and enjoy turning ideas into real-world products.
 
-### 🔥 Currently I'm:
-- 🚀 Exploring **Next.js**
-- 🌐 Working on a **tourism website**
-- 🧩 Focusing on **responsive UI design**
-- 💡 Contributing to **open-source projects**
+- 🔭 I’m currently working on a **tourism web application**
+- 🌱 I’m learning **Next.js** and **TypeScript**
+- 👯 I’m looking to collaborate on **open-source MERN projects**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, and Firebase**
+- ⚡ Fun fact: I enjoy debugging as much as building!
+
 
 ---
 
