@@ -63,7 +63,7 @@ I'm **Nazmul Haque Rahat**, a dedicated and creative web developer with a strong
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazmulrahat786&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmulrahat786&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nazmulrahat786&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulrahat786&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
