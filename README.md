@@ -43,9 +43,9 @@ I'm **Nazmul Haque Rahat**, a dedicated and creative web developer with a strong
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="nazmulrahat786.13.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="mailto:nazmulrahat786.13@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
   <a href="https://www.linkedin.com/in/nazmul-rahat-2654262a7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
