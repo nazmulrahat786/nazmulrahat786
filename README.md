@@ -49,7 +49,7 @@ I'm **Nazmul Haque Rahat**, a dedicated and creative web developer with a strong
   <a href="https://www.linkedin.com/in/nazmul-rahat-2654262a7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nazmulhaquerahat.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://nazmul-haque-rahat.web.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
