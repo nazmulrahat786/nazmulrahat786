@@ -53,7 +53,7 @@ I'm **Nazmul Haque Rahat**, a dedicated and creative web developer with a strong
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nazmulrahat786/nazmulrahat786/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
