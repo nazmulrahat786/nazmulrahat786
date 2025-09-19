@@ -7,7 +7,7 @@
 
 
 ---
-![snake gif](https://github.com/nazmulrahat786/nazmulrahat786/blob/output/github-contribution-grid-snake.gif)
+
 
 ## 🧑‍💻 About Me
 
