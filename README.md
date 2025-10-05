@@ -69,5 +69,5 @@ I'm **Nazmul Haque Rahat**, a dedicated and creative web developer with a strong
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/nazmulrahat786/nazmulrahat786/blob/output/github-contribution-grid-snake.gif)
+
 
